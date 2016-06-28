@@ -12,6 +12,6 @@ Any OI member is welcome to contribute & edit the charter.
 
 ## Note
 
-The project is in its nacent stages & most of what you see will evolve. We hope every change will push us forward to the goals of OI.
+The project is in its nascent stages & most of what you see will evolve. We hope every change will push us forward to the goals of OI.
 
 [wiki]: https://github.com/OpenInitiative/Charter/wiki
